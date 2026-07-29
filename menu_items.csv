@@ -1,0 +1,101 @@
+﻿item_id,item_name,category,cuisine,cost_price,selling_price,profit_per_item,profit_margin,preparation_time_minutes
+401,Biryani,Fast Food,Chinese,292,411,119,28.95377129,8
+402,Pasta,Main,Chinese,193,373,180,48.25737265,29
+403,Paneer Pizza,Fast Food,Indian,50,247,197,79.75708502,25
+404,Pasta,Main,Chinese,261,291,30,10.30927835,27
+405,Paneer Pizza,Fast Food,Chinese,161,244,83,34.01639344,7
+406,Pasta,Fast Food,Indian,68,142,74,52.11267606,30
+407,Burger,Main,Chinese,89,121,32,26.44628099,11
+408,Paneer Pizza,Main,Italian,142,187,45,24.06417112,29
+409,Paneer Pizza,Fast Food,Italian,154,333,179,53.75375375,15
+410,Pasta,Fast Food,Italian,83,280,197,70.35714286,29
+411,Paneer Pizza,Main,Italian,282,426,144,33.8028169,26
+412,Pasta,Fast Food,Chinese,107,211,104,49.28909953,10
+413,Biryani,Fast Food,Indian,254,401,147,36.65835411,13
+414,Biryani,Main,Indian,57,118,61,51.69491525,26
+415,Biryani,Fast Food,Italian,269,396,127,32.07070707,12
+416,Paneer Pizza,Main,Indian,238,324,86,26.54320988,12
+417,Pasta,Main,Italian,262,300,38,12.66666667,15
+418,Burger,Main,Indian,257,407,150,36.85503686,14
+419,Burger,Main,Indian,287,403,116,28.78411911,9
+420,Pasta,Fast Food,Chinese,198,345,147,42.60869565,15
+421,Pasta,Fast Food,Indian,267,342,75,21.92982456,23
+422,Burger,Main,Chinese,197,311,114,36.65594855,22
+423,Paneer Pizza,Fast Food,Chinese,282,410,128,31.2195122,12
+424,Biryani,Fast Food,Italian,63,256,193,75.390625,11
+425,Burger,Fast Food,Chinese,223,343,120,34.98542274,29
+426,Paneer Pizza,Fast Food,Italian,210,385,175,45.45454545,29
+427,Biryani,Main,Italian,262,376,114,30.31914894,18
+428,Paneer Pizza,Main,Indian,211,253,42,16.60079051,26
+429,Pasta,Main,Chinese,76,275,199,72.36363636,6
+430,Pasta,Fast Food,Italian,205,261,56,21.4559387,22
+431,Pasta,Fast Food,Chinese,147,343,196,57.14285714,29
+432,Paneer Pizza,Fast Food,Italian,67,206,139,67.47572816,29
+433,Paneer Pizza,Fast Food,Italian,205,303,98,32.34323432,29
+434,Burger,Fast Food,Chinese,151,291,140,48.10996564,22
+435,Burger,Fast Food,Italian,172,218,46,21.10091743,5
+436,Burger,Fast Food,Italian,178,316,138,43.67088608,21
+437,Pasta,Fast Food,Italian,233,412,179,43.44660194,22
+438,Burger,Main,Chinese,205,273,68,24.90842491,10
+439,Paneer Pizza,Fast Food,Indian,124,259,135,52.12355212,25
+440,Paneer Pizza,Fast Food,Indian,156,261,105,40.22988506,10
+441,Pasta,Fast Food,Chinese,256,390,134,34.35897436,27
+442,Paneer Pizza,Fast Food,Chinese,163,220,57,25.90909091,13
+443,Burger,Fast Food,Italian,280,416,136,32.69230769,12
+444,Paneer Pizza,Main,Italian,204,356,152,42.69662921,27
+445,Pasta,Main,Italian,88,158,70,44.30379747,7
+446,Paneer Pizza,Fast Food,Indian,297,484,187,38.63636364,10
+447,Biryani,Fast Food,Italian,52,242,190,78.51239669,20
+448,Pasta,Fast Food,Chinese,103,271,168,61.99261993,19
+449,Biryani,Fast Food,Chinese,158,201,43,21.39303483,23
+450,Biryani,Fast Food,Chinese,167,347,180,51.87319885,9
+451,Paneer Pizza,Fast Food,Chinese,103,195,92,47.17948718,16
+452,Burger,Main,Indian,187,294,107,36.39455782,7
+453,Biryani,Fast Food,Chinese,256,410,154,37.56097561,6
+454,Burger,Fast Food,Italian,282,407,125,30.71253071,6
+455,Paneer Pizza,Fast Food,Italian,290,366,76,20.76502732,16
+456,Biryani,Fast Food,Indian,180,214,34,15.88785047,25
+457,Paneer Pizza,Fast Food,Indian,249,365,116,31.78082192,20
+458,Pasta,Main,Italian,125,296,171,57.77027027,22
+459,Pasta,Fast Food,Chinese,298,354,56,15.81920904,27
+460,Burger,Fast Food,Chinese,153,188,35,18.61702128,7
+461,Burger,Main,Chinese,203,250,47,18.8,23
+462,Pasta,Main,Chinese,278,356,78,21.91011236,11
+463,Paneer Pizza,Main,Chinese,134,312,178,57.05128205,21
+464,Paneer Pizza,Fast Food,Indian,207,368,161,43.75,11
+465,Pasta,Fast Food,Chinese,173,234,61,26.06837607,17
+466,Biryani,Fast Food,Indian,252,306,54,17.64705882,21
+467,Pasta,Fast Food,Chinese,234,391,157,40.15345269,12
+468,Biryani,Fast Food,Chinese,131,276,145,52.53623188,8
+469,Pasta,Fast Food,Italian,287,465,178,38.27956989,28
+470,Burger,Fast Food,Italian,77,188,111,59.04255319,12
+471,Paneer Pizza,Fast Food,Chinese,291,322,31,9.627329193,24
+472,Biryani,Main,Indian,77,218,141,64.67889908,21
+473,Burger,Fast Food,Chinese,263,451,188,41.68514412,27
+474,Paneer Pizza,Fast Food,Italian,227,383,156,40.7310705,5
+475,Pasta,Main,Chinese,111,291,180,61.8556701,12
+476,Paneer Pizza,Main,Italian,78,179,101,56.42458101,18
+477,Biryani,Fast Food,Chinese,98,209,111,53.11004785,17
+478,Burger,Fast Food,Italian,267,358,91,25.41899441,19
+479,Burger,Main,Indian,290,336,46,13.69047619,8
+480,Pasta,Main,Indian,123,291,168,57.73195876,28
+481,Pasta,Fast Food,Chinese,65,169,104,61.53846154,27
+482,Paneer Pizza,Fast Food,Italian,185,324,139,42.90123457,29
+483,Pasta,Fast Food,Italian,153,306,153,50,22
+484,Burger,Fast Food,Italian,184,354,170,48.02259887,10
+485,Pasta,Fast Food,Chinese,97,194,97,50,19
+486,Pasta,Fast Food,Indian,156,271,115,42.43542435,26
+487,Burger,Main,Italian,276,389,113,29.04884319,25
+488,Biryani,Fast Food,Italian,209,360,151,41.94444444,15
+489,Pasta,Fast Food,Chinese,199,382,183,47.90575916,10
+490,Paneer Pizza,Main,Italian,225,403,178,44.16873449,27
+491,Paneer Pizza,Main,Chinese,199,334,135,40.41916168,30
+492,Paneer Pizza,Main,Chinese,52,121,69,57.02479339,21
+493,Biryani,Fast Food,Indian,232,354,122,34.46327684,16
+494,Burger,Fast Food,Italian,259,289,30,10.38062284,27
+495,Biryani,Fast Food,Chinese,89,248,159,64.11290323,10
+496,Paneer Pizza,Main,Italian,180,368,188,51.08695652,29
+497,Biryani,Fast Food,Indian,290,380,90,23.68421053,24
+498,Paneer Pizza,Fast Food,Chinese,100,268,168,62.68656716,17
+499,Paneer Pizza,Main,Indian,193,249,56,22.48995984,5
+500,Biryani,Main,Indian,51,91,40,43.95604396,15
